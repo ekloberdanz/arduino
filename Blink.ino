@@ -1,8 +1,7 @@
 /*
   Blink
-  Turns on an LED on for one second, then off for one second, repeatedly.
- 
-  This example code is in the public domain.
+  Simmulates traffic lights.
+  Red light turns on for 5 seconds, yellow for 1, green for 5, yellow for 1 and so on.
  */
  
 // Pin 13 has an LED connected on most Arduino boards.
